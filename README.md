@@ -36,9 +36,6 @@
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
     	
 </p>
-<br>
-
-<img align='right' width='50%' src='http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=susu2231595742&theme=nord_dark'/>
 
 
 ## 🤖 Reach me
