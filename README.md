@@ -23,6 +23,7 @@
 
 ## ✨ Tech & Skill
 
+<img align='right' width='50%' src='http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=susu2231595742&theme=nord_dark'/>
 
 <p>
 	<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -39,13 +40,10 @@
 
 ## 🤖 Reach me
 
-[![](https://img.shields.io/badge/dynamic/json?color=da282a&label=github&query=%24.data.totalSubs&suffix= fans&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dsusu2231595742)](https://github.com/susu2231595742)
-
 <br>
 
-```
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/susu2231595742/susu2231595742/assets/github-contribution-grid-snake.svg" /></div>
-```
+
 
 
 
