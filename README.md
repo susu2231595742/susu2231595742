@@ -3,6 +3,10 @@
 
 <a href='mailto:2231595742_at_qq.com'><img src='https://img.shields.io/badge/-2231595742@qq.com-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438'/></a> 
 
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=susu2231595742&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
+
 - 🔭 I’m currently working on China, Henan
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,7 +18,6 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=susu2231595742&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
 
 
 
