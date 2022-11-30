@@ -33,9 +33,6 @@
 	<img src="https://img.shields.io/badge/SpringCloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 	<img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-	<img src="https://img.shields.io/badge/-Docker-black?style=flat&logo=docker"/>
-	<img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git"/>
-	
     	
 </p>
 
