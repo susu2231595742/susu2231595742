@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-
-**susu2231595742/susu2231595742** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<a href='mailto:2231595742_at_qq.com'><img src='https://img.shields.io/badge/-2231595742@qq.com-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438'/></a> 
 
 - 🔭 I’m currently working on China, Henan
 - 🌱 I’m currently learning ...
@@ -39,7 +36,6 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/dynamic/json?color=da282a&label=github&query=%24.data.totalSubs&suffix= fans&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dsusu2231595742)](https://github.com/susu2231595742)
 
-<a href='mailto:1846015350_at_qq.com'><img src='https://img.shields.io/badge/-15036934261@163.com-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438'/></a> 
 <br>
 
 ```
