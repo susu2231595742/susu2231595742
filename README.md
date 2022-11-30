@@ -28,11 +28,11 @@
 	<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 	<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-	<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>	
-	<img src="https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=vuedotjs"/>	
-	<img src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff"/>    
+	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=sprinbootg&logoColor=white"/>
+	<img src="https://img.shields.io/badge/SpringCloud-6DB33F?style=for-the-badge&logo=springcloud&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 	<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/redis-%23F05032.svg?style=for-the-badge&logo=redis&logoColor=white"/>
+    	<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
 
